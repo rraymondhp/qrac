@@ -1,5 +1,14 @@
 # Quantum Random Access Coding (QRAC)
 
+By Rudy Raymond
+
+## Prerequisites
+
+You need to install `qiskit` and `qiskit-tutorial` repositories to run the codes.
+Please follow the installation steps [here](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md).
+
+## List of files
+
 This is the repository for documenting two-qubit QRACs. The definition of QRACs and
 some examples of QRACs can be found [here](https://nbviewer.jupyter.org/github/QISKit/qiskit-tutorial/blob/master/appendix/more_qis/single-qubit_quantum_random_access_coding.ipynb) and [here](https://nbviewer.jupyter.org/github/QISKit/qiskit-tutorial/blob/master/appendix/more_qis/two-qubit_state_quantum_random_access_coding.ipynb).
 

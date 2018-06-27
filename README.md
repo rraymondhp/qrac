@@ -16,3 +16,7 @@ Here is the list the two-qubit QRACs:
 1. The [(3,2)-QRAC](32QRAC.ipynb): encoding 3 bits into 2 qubits. The classical RAC has success probability 2/3.
 2. The [(5,2)-QRAC](QRAC_for_5_bits_with_2_qubits.ipynb): encoding 5 bits into 2 qubits. No classical RACs can perform this with 2 bits.
 3. The [(7,2)-QRAC](QRAC_for_7_bits_with_2_qubits.ipynb): encoding 7 bits into 2 qubits. No classical RACs can perform this with 2 bits.
+
+### Acknowledgement
+
+Special thanks to Keita Takeuchi of Univ. of Tokyo for preparing the states and measurements of the (5,2)-QRACs.

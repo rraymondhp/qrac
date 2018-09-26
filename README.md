@@ -1,6 +1,6 @@
 # Quantum Random Access Coding (QRAC)
 
-By Rudy Raymond
+by Rudy Raymond, IBM Research
 
 ## What is Quantum Random Access Coding?
 

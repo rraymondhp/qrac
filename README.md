@@ -23,7 +23,7 @@ Please follow the installation steps [here](https://github.com/QISKit/qiskit-tut
 
 ## List of files
 
-Below are two-qubit QRACs that are known to be better than those found in [Improved Classical and Quantum Random Access Codes](https://arxiv.org/abs/1607.02667). The results are summarized as follows:
+Below are two-qubit QRACs that are known to be better than those found in [Improved Classical and Quantum Random Access Codes](https://arxiv.org/abs/1607.02667). The results are (n,2,p)-QRACs with n and p summarized as follows:
 
 | n | 3 | 5 | 7 | 8 | 9 |
 |---|---|---|---|---|---|

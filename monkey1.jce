@@ -1,0 +1,50 @@
+=== Complete test ===
+
+The previous steps do not include any specific example data, so that is added to complete the test:
+
+'''Given:'''
+
+: Book that has not been checked out
+
+{| class="wikitable"
+|-
+! Books
+|
+|-
+| Title || Checked out
+|-
+| Great book || No
+|}
+
+: User who is registered on the system
+
+{| class="wikitable"
+|-
+! Users
+|-
+| Name || Sam
+|}
+
+'''When:'''
+
+: User checks out a book
+
+{| class="wikitable"
+|-
+! Checkout action
+|-
+| User || Sam || Checks out || Great book
+|}
+
+'''Then:'''
+
+: Book is marked as checked out
+
+{| class="wikitable"
+|-
+! Books
+|-
+| Title || Checked out || User
+|-
+| Great book || Yes || Sam
+|}
